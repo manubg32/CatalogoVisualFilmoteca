@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|c:\\users\\root\\desktop\\desarrollo de interfaces\\catalogovisual\\controlador\\gestionavlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|solutionrelative:controlador\\gestionavlistar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|c:\\users\\root\\desktop\\desarrollo de interfaces\\catalogovisual\\vista\\frmfiltrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|solutionrelative:vista\\frmfiltrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\frmfiltrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|solutionrelative:vista\\frmfiltrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|c:\\users\\root\\desktop\\desarrollo de interfaces\\catalogovisual\\vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|solutionrelative:vista\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|c:\\users\\root\\desktop\\desarrollo de interfaces\\catalogovisual\\vista\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD8ED62-422D-4215-94EC-A909DF673B03}|CatalogoVisual.csproj|solutionrelative:vista\\frmmenuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionAvListar.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\controlador\\GestionAvListar.cs",
+              "RelativeDocumentMoniker": "controlador\\GestionAvListar.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\controlador\\GestionAvListar.cs",
+              "RelativeToolTip": "controlador\\GestionAvListar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:30:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFiltrar.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\FrmFiltrar.cs",
+              "RelativeDocumentMoniker": "vista\\FrmFiltrar.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\FrmFiltrar.cs",
+              "RelativeToolTip": "vista\\FrmFiltrar.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:29:41.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmFiltrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\FrmFiltrar.cs",
+              "RelativeDocumentMoniker": "vista\\FrmFiltrar.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\03. Catalogo Visual\\CatalogoVisual\\vista\\FrmFiltrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\03. Catalogo Visual\\CatalogoVisual\\vista\\FrmFiltrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:29:36.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\frmMenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "vista\\frmMenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\frmMenuPrincipal.Designer.cs",
+              "RelativeToolTip": "vista\\frmMenuPrincipal.Designer.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAABMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:26:25.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\FrmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "vista\\FrmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\Desarrollo de Interfaces\\CatalogoVisual\\vista\\FrmMenuPrincipal.cs",
+              "RelativeToolTip": "vista\\FrmMenuPrincipal.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowBYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:15:08.595Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

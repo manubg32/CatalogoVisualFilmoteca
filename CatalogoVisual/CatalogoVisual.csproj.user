@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="vista\FrmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmFiltrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmConfirmarEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmDetalles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmListar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vista\FrmAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
